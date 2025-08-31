@@ -43,29 +43,7 @@ all age groups on automated machining.
 
 <br>
 
-## DISCLAIMER
-  
-<br>
 
-```
-  
-Ｔｈｅ ａｕｔｈｏｒｓ ｏｆ ｔｈｉｓ ｓｏｆｔｗａｒｅ ａｃｃｅｐｔ
-ａｂｓｏｌｕｔｅｌｙ ｎｏ ｌｉａｂｉｌｉｔｙ ｆｏｒ ａｎｙ
-ｈａｒｍ　ｏｒ ｌｏｓｓ ｒｅｓｕｌｔｉｎｇ ｆｒｏｍ ｉｔｓ ｕｓｅ．
-
-Ｉｔ ｉｓ ＥＸＴＲＥＭＥＬＹ ｕｎｗｉｓｅ ｔｏ　ｒｅｌｙ
-ｏｎ ｓｏｆｔｗａｒｅ ａｌｏｎｅ ｆｏｒ ｓａｆｅｔｙ．
-
-Any machinery capable of harming persons must have
-provisions for completely removing power from all
-motors, etc., before persons enter any danger area.
-
-All machinery must be designed to comply with local 
-and national safety codes, and the authors of this 
-software cannot and do not, take any responsibility 
-for such compliance.
-  
-```
 
 <br>
   
